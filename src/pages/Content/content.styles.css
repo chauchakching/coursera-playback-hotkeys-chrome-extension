@@ -1,0 +1,9 @@
+.new-playback-rate-text {
+  position: absolute;
+  top: 17px;
+  opacity: 0.6;
+  background: #ebebeb;
+  padding: 12px;
+  font-size: 20px;
+  border-radius: 4px;
+}
